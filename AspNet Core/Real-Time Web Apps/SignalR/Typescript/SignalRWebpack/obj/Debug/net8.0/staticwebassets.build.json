@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "jszxOAfmghUuHXP06Ze59/XtJZhdpIW5JnD010pkDsY=",
+  "Source": "SignalRWebpack",
+  "BasePath": "_content/SignalRWebpack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRWebpack\\wwwroot",
+      "Source": "SignalRWebpack",
+      "ContentRoot": "D:\\Projetos\\estudo\\AspNet Core\\Real-Time Web Apps\\SignalR\\Typescript\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projetos\\estudo\\AspNet Core\\Real-Time Web Apps\\SignalR\\Typescript\\SignalRWebpack\\wwwroot\\css\\main.d8d85ef181466c6cef52.css",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\estudo\\AspNet Core\\Real-Time Web Apps\\SignalR\\Typescript\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "css/main.d8d85ef181466c6cef52.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.d8d85ef181466c6cef52.css"
+    },
+    {
+      "Identity": "D:\\Projetos\\estudo\\AspNet Core\\Real-Time Web Apps\\SignalR\\Typescript\\SignalRWebpack\\wwwroot\\index.html",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\estudo\\AspNet Core\\Real-Time Web Apps\\SignalR\\Typescript\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Projetos\\estudo\\AspNet Core\\Real-Time Web Apps\\SignalR\\Typescript\\SignalRWebpack\\wwwroot\\main.d8d85ef181466c6cef52.js",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\estudo\\AspNet Core\\Real-Time Web Apps\\SignalR\\Typescript\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "main.d8d85ef181466c6cef52.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.d8d85ef181466c6cef52.js"
+    }
+  ]
+}
